@@ -1,5 +1,5 @@
-# Glory2Him
-
+# Glory 2 Him
+![Glory 2 Him](https://raw.githubusercontent.com/Glory2Him/Glory2Him/main/Resources/Images/G2H-Banner.png)
 ---
 
 ## ✝️ Introduction  
